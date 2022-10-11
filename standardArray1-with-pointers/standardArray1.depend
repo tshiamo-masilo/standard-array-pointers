@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660739940 source:c:\users\geeks4learning\documents\codeblocks\standardarray1\main.cpp
+	<iostream>
+	"Array1.h"
+
+1660741517 source:c:\users\geeks4learning\documents\codeblocks\standardarray1\src\array1.cpp
+	"Array1.h"
+	<iostream>
+
+1660736389 c:\users\geeks4learning\documents\codeblocks\standardarray1\include\array1.h
+	<iostream>
+
